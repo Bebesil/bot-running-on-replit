@@ -4,7 +4,7 @@ import os
 from background import keep_alive
 from telebot import types
 
-TOKEN = '5869718003:AAEzj09510rQ62GRsrFpWAB4tMbdlcL2BLk'
+TOKEN = 'твой токен'
 YOUR_CHANNEL_ID = '-1001959485469'
 PASSWORD = '1234'  # Здесь указывается ваш пароль
 DATABASE_FILE = 'database.txt'  # Путь к файлу базы данных
